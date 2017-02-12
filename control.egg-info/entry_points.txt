@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        control=main:run
+    
